@@ -1,4 +1,4 @@
-package com.quwenzhe.iot.timestamp;
+package com.quwenzhe.timestamp;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;

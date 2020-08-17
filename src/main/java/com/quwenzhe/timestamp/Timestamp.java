@@ -1,4 +1,4 @@
-package com.quwenzhe.iot.timestamp;
+package com.quwenzhe.timestamp;
 
 /**
  * @Description monotonically increasing timestamp
